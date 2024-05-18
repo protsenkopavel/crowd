@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: postgres
+    password: postgres
+    url: jdbc:postgresql://localhost/crowd
+  jpa:
+    generate-ddl: true
